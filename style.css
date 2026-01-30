@@ -1,0 +1,29 @@
+#bg {
+  background: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: auto;
+  height: 450px;
+}
+#road {
+  background: url(road.jpg);
+}
+#img {
+  height: 110px;
+}
+#btn {
+  background-color: blue;
+  width: 80px;
+  height: 40px;
+  font-size: 30px;
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 30px;
+}
+#startStop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
